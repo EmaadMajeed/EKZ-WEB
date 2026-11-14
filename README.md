@@ -1,2 +1,0 @@
-# EKZ-WEB
-test file

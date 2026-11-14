@@ -1,6 +1,0 @@
-/.cloudflare.env
-/node_modules/
-/.cf/
-/.cloudflare/
-/.wrangler/
-/dist/
